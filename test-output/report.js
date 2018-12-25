@@ -38,27 +38,29 @@ formatter.match({
   "location": "ContactsPageSteps.user_on_HomPage()"
 });
 formatter.result({
-  "duration": 298275472,
-  "error_message": "java.lang.NullPointerException\r\n\tat newtours.qa.testBase.TestBase.browserSettings(TestBase.java:56)\r\n\tat newtours.qa.testBase.TestBase.initialize(TestBase.java:52)\r\n\tat newtours.qa.testSteps.ContactsPageSteps.user_on_HomPage(ContactsPageSteps.java:14)\r\n\tat ✽.Given User on HomPage(ContactPage.feature:5)\r\n",
-  "status": "failed"
+  "duration": 12049075124,
+  "status": "passed"
 });
 formatter.match({
   "location": "ContactsPageSteps.click_on_ContactLinks()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 3023654294,
+  "status": "passed"
 });
 formatter.match({
   "location": "ContactsPageSteps.verify_the_ContactPage()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 79518456,
+  "status": "passed"
 });
 formatter.match({
   "location": "ContactsPageSteps.return_to_Hompage_By_clicking_on_it()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 881362905,
+  "status": "passed"
 });
 formatter.uri("HomePage.feature");
 formatter.feature({
@@ -211,15 +213,15 @@ formatter.match({
   "location": "testDefinitions.user_has_launched_the_application()"
 });
 formatter.result({
-  "duration": 1100280,
-  "error_message": "java.lang.NullPointerException\r\n\tat newtours.qa.testBase.TestBase.browserSettings(TestBase.java:56)\r\n\tat newtours.qa.testBase.TestBase.initialize(TestBase.java:52)\r\n\tat newtours.qa.testSteps.testDefinitions.user_has_launched_the_application(testDefinitions.java:15)\r\n\tat ✽.Given User has launched the application(HomePage.feature:6)\r\n",
-  "status": "failed"
+  "duration": 8216877573,
+  "status": "passed"
 });
 formatter.match({
   "location": "testDefinitions.user_clicks_on_the_Register_link()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1256885254,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -271,19 +273,22 @@ formatter.match({
   "location": "testDefinitions.user_enter_the_contact_details(String,String,String,String,String,String,String,String,String,String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 8973290297,
+  "status": "passed"
 });
 formatter.match({
   "location": "testDefinitions.user_validate_the_completion_of_the_registration()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 833820403,
+  "status": "passed"
 });
 formatter.match({
   "location": "testDefinitions.user_Closes_the_Browser()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1486962877,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 15,
@@ -335,15 +340,15 @@ formatter.match({
   "location": "testDefinitions.user_has_launched_the_application()"
 });
 formatter.result({
-  "duration": 895447,
-  "error_message": "java.lang.NullPointerException\r\n\tat newtours.qa.testBase.TestBase.browserSettings(TestBase.java:56)\r\n\tat newtours.qa.testBase.TestBase.initialize(TestBase.java:52)\r\n\tat newtours.qa.testSteps.testDefinitions.user_has_launched_the_application(testDefinitions.java:15)\r\n\tat ✽.Given User has launched the application(HomePage.feature:6)\r\n",
-  "status": "failed"
+  "duration": 10818172605,
+  "status": "passed"
 });
 formatter.match({
   "location": "testDefinitions.user_clicks_on_the_Register_link()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 7808815656,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -395,18 +400,21 @@ formatter.match({
   "location": "testDefinitions.user_enter_the_contact_details(String,String,String,String,String,String,String,String,String,String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 7703634760,
+  "status": "passed"
 });
 formatter.match({
   "location": "testDefinitions.user_validate_the_completion_of_the_registration()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 151596168,
+  "status": "passed"
 });
 formatter.match({
   "location": "testDefinitions.user_Closes_the_Browser()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 794930972,
+  "status": "passed"
 });
 });
